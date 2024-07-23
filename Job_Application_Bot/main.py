@@ -7,8 +7,8 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 # Replace with your actual LinkedIn credentials
-EMAIL = "clen.emenike@gmail.com"
-PASSWORD = "Menikev@86"
+EMAIL = "clen.gmail.com"
+PASSWORD = "M6"
 
 # Job search URL
 JOB_SEARCH_URL = "https://www.linkedin.com/jobs/search/?f_LF=f_AL&geoId=102257491&keywords=python%20developer&location=London%2C%20England%2C%20United%20Kingdom&redirect=false&position=1&pageNum=0"
